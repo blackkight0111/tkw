@@ -1,0 +1,38 @@
+article{
+	width: 340px;
+	height: 458px;
+}
+
+a{
+	
+	text-align: justify;
+	text-decoration: none;
+	font-family: arial;
+	font-size: 19px;
+	color: black;
+	font-weight: bold;
+}
+#a{
+	margin-top: 7px;
+}
+p{
+	text-align: justify;
+	font-family: arial;
+}
+#p{
+	color: gray;
+	font-size: 14px;
+}
+
+#dong1{
+	border-top: 1px solid #dcdcdc;
+	color: black;
+	font-size: 15px;	
+	font-weight: bold;	
+}
+#dong2{
+	border-top: 1px solid #dcdcdc;
+	color: black;
+	font-size: 15px;
+	font-weight: bold;	
+}

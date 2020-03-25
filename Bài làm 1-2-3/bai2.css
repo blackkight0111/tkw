@@ -1,0 +1,22 @@
+article{
+	width: 340px;
+	height: 458px;
+}
+#tieude{
+	margin: 8px;
+}
+a{
+	text-decoration: none;
+	text-align: justify;	
+	font-family: arial;
+	font-weight: bold;
+	font-size: 22px;
+	color: black;
+	}
+p{
+	margin: 8px;
+	color: gray;
+	font-size: 14px;
+	text-align: justify;
+	font-family: arial;
+}

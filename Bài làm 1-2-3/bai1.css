@@ -1,0 +1,28 @@
+article{
+	width: 414px;
+	height: 443px;
+	border: 1px solid red;
+	background-image: url('bg.png');
+}
+
+img{
+	
+	border-bottom: 1px solid red;
+}
+#vanban{
+	margin: 8px;
+}
+a{
+	text-decoration: none;
+	font-size: 19px;
+	color: red;
+	font-weight: bold;
+	font-family: arial;
+	text-align: justify;
+}
+
+p{
+	color: #696969;
+	text-align: justify;
+	font-family: arial;
+}
