@@ -1,0 +1,42 @@
+.top{
+	width: 520px;
+}
+#a{
+	font-family: arial;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #757575;
+	
+}
+#p{
+	font-size: 19px;
+	
+	font-family: timenewroman;
+}
+#i{
+	width: 190px;
+	height: 110px;
+	float: right;
+}
+ 
+.nd{
+	width: 600px;
+	
+}
+article{
+	
+	width: 250px;
+	height: 260px;
+	float: left;
+	margin-right: 20px;
+}
+img{
+	width: 250px;
+}
+a{
+	text-decoration: none;
+	font-size: 16px	;
+	color: black;
+	font-weight: bolder;
+	color: #757575;
+}
