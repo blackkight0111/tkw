@@ -1,0 +1,56 @@
+article{
+	width: 810px;
+	height: 350px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+}
+img{
+	height: 340px;
+	float: left;
+	margin-right: 20px;
+}
+a{
+	color: black;
+	text-decoration: none;
+	font-size: 15px;
+	font-family: arial;
+}
+div.khungtext{
+		padding-top: 10px;
+}
+a.tren{
+	color: #00a1ff;
+	font-family: arial;
+	font-size: 14px;
+	font-weight: bold;
+}
+a.tieude{
+	color: black;
+	font-family: arial;
+	font-size: 22px;
+	font-weight: bold;
+}
+a.tieude:hover{
+	color: blue;	}
+div.giua a{
+	font-family: arial;
+	font-size: 10px;
+	color: gray;
+	font-weight: bold;
+}
+div.giua a.gd{
+	color: black;
+}
+p{
+	font-family: arial;
+	font-size: 16px;
+	color: gray	;
+}
+.khungduoi a{
+	line-height: 2;
+}
+.khungduoi a:hover{
+color: blue;
+}
