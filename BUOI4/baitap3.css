@@ -1,0 +1,86 @@
+article{
+	width: 700px;
+	height: 524px;
+	
+}
+div.hinhtrai{
+	width: 400px;
+	height: 524px;
+	position: relative;
+	float: left;
+}
+div.hinhtrai img{
+	width: 400px;
+	height: 524px;
+}
+img.hinh{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 1;
+}
+a.chu{
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	z-index: 2;
+	text-decoration: none;
+	font-size: 30px;
+	font-family: serif;
+	font-weight: 400;
+	padding: 20px;
+	color: #fff;
+}
+a.chu:hover{
+	text-decoration: underline;
+}
+div.khungphai{
+	width: 280px;
+	height: 524px;
+	float: right;
+}
+.khungphai img{
+	margin-bottom: 8px;
+}
+div.tren{
+	width: 280px;
+	height: 320px;
+	padding-bottom: 20px;
+} 
+.tren a{
+	text-decoration: none;
+	font-size: 20px;
+	line-height: 19px;
+	color: #2d2d2d;
+	font-weight: bold;
+}
+.tren a:hover{
+	color: blue;
+}
+.tren p{
+	margin-top: 5px;
+	font-size: 15px;
+	line-height: 18px;
+}
+
+div.duoi{
+	width: 280px;
+	height: 158px;
+}
+div.dphu{
+	width: 280px;
+	height: 70px;
+	padding-bottom: 12px;
+	padding-top: 12px;
+	border-top: 1px solid;
+	border-color: #e3e3e3;
+}
+.duoi a{
+	text-decoration: none;
+	font-size: 17px;
+	font-weight: bold;
+	color: #222;
+	line-height: 18px;
+}
+.duoi a:hover{
+	color: blue;
