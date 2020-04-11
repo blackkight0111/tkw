@@ -1,0 +1,50 @@
+.top{
+	width: 520px;
+}
+#a{
+	font-family: arial;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #757575;
+}
+div.tieude{
+	padding-left: 5px;
+}
+#p{
+	font-size: 19px;
+	
+	font-family: timenewroman;
+}
+#i{
+	width: 190px;
+	height: 110px;
+	float: right;
+}
+ 
+.nd{
+	width: 540px;
+}
+article{
+	border: 1px solid black;
+	box-shadow:0 14px 5px -9px grey;
+	width: 250px;
+	height: 250px;
+	float: left;
+	margin-right: 15px;
+	margin-top: 10px;
+}
+img{
+	width: 250px;
+	margin-left: : 10px;
+}
+a{
+
+	text-decoration: none;
+	font-size: 16px	;
+	color: black;
+	font-weight: bolder;
+	color: #757575;
+}
+div.chu{
+	padding-left: 5px;
+}
