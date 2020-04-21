@@ -1,0 +1,145 @@
+.trang{
+	width: 1150px;
+	height: 900px;
+}
+article{
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	float: left;
+}
+.khung{
+	width: 264px;
+	height: 400px;
+}
+.khung:hover .icon{
+	opacity: 1;
+}
+.khung:hover .top-l1{
+ opacity: 1;
+ transition: 0.4s;
+}
+.khunganh{
+	width: 264px;
+	height: 336px;
+	position: relative;
+}
+.top-l1{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 1;
+	opacity: 0;
+	transition: 0.4s;
+}
+.top-l2{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 0;
+}
+.icon{
+	opacity: 0;
+	position: absolute;
+	width: 30px;
+	top: 0px;
+	right: 0px;
+	z-index: 2;
+	background-color: #d8d8d8;
+	transition: 0.2s;
+}
+.icon i:hover{
+	background-color: orange;
+	color: white;
+	transition: 0.2s;
+}
+.icon i{
+	font-size: 20px;
+	color: black;
+	padding: 5px;
+}
+.chu{
+	font-size: 15px;
+	margin-top: 6px;
+	border-bottom: 1px solid gray; 
+	display: inline-block;
+}
+.bottom{
+	margin-top: 6px;
+}
+.bottom .left{
+	position: relative;
+	width: 180px;
+	height: 40px;
+	float: left;
+}
+.bottom .left a{
+	text-decoration-line: none;
+	font-size: 14px;
+	color: grey;
+}
+.selec{
+	font-size: 12px;
+	font-family: arial;
+}
+.left .bot-l1{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 0;
+	font-size: 12px;
+	transition: 0.5s;
+}
+.khung:hover .bot-l1{
+	top: -15px;
+	opacity: 0;
+	transition: 0.5s;
+}
+.left .bot-l2{
+	position: absolute;
+	top: 20px;
+	left: 0px;
+	z-index: 1;
+	opacity: 0;
+	font-size: 12px;
+	transition: 0.3s;
+}
+.khung:hover .bot-l2{
+	top: 0px;
+	opacity: 1;
+	transition: 0.5s;
+}
+.bottom .right{
+	position: relative;
+	width: 70px;
+	height: 40px;
+	float: right;
+}
+.bottom .right .maudo{
+	position: absolute;
+	top: 20px;
+	right: 40px;
+	width: 30px;
+	height: 30px;
+	opacity: 0;
+	background-color: red;
+}
+.right .mauxanh{
+	position: absolute;
+	top: -20px;
+	right: 0px;
+	width: 30px;
+	height: 30px;
+	opacity: 0;
+	background-color: blue;
+}
+.khung:hover .maudo{
+	opacity: 1;
+	top:0px;
+	transition: 0.5s
+}
+.khung:hover .mauxanh{
+	opacity: 1;
+	top:0px;
+	transition: 0.5s
+}
